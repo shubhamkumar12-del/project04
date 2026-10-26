@@ -96,7 +96,7 @@ body{
     color: #b70d0d;
     
 }
-.card{
+.listing-card{
     border: none !important;
     margin-bottom: 2rem;
     
@@ -134,4 +134,15 @@ body{
 }
 .edit-btn{
     background-color: #b70d0d !important;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+.search-inp{
+   border-radius: 1rem;
+}
+.search.btn{
+   border-radius: 1rem;
 }
